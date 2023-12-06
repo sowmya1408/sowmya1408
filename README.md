@@ -11,7 +11,7 @@ I am a Frontend developer who loves React.
 * 🌍  I'm based in Copenhagen
 * ✉️  You can contact me at [sowmyamannemr@gmail.com](mailto:sowmyamannemr@gmail.com)
 * 🚀  I'm currently working on [Crown Clothing App](http://stately-bombolone-d60b3e.netlify.app)
-* 🧠  I'm learning Typescript,React- Redux, Serverless functions,
+* 🧠  I'm learning Typescript,React- Redux, Serverless functions, GraphQL
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am a Mother Taking Fun Rollercoaster Ride Everyday :)
 
