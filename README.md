@@ -12,7 +12,7 @@ I am Machine learning engineer with focus on Computer vision
 - 🌱 Aspiring ML Engineer | Computer Vision Enthusiast | Full-Stack Developer
 - 🚀 Exploring ML & CV to solve real-world problems in supply chain & construction
 - 💻 Projects: [News Classifier](link), [Image Classification](link), [HackYourFuture Project](link)
-- 📫 Connect: [LinkedIn](linkedin.com/in/sowmyamannem) | [Portfolio]([link](https://sowmya1408.github.io/portfolio/))
+- 📫 Connect: [LinkedIn](linkedin.com/in/sowmyamannem) | [Portfolio]([link](https://sowmya1408.github.io/portfolio))
 
 
 ### 🔹 skills
