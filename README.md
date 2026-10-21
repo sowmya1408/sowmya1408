@@ -2,26 +2,27 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sowmya Mannem
 =====================================================================================================================================
 
-Machine Learning Engineer - Computer vision
+Frontend Developer, AI enthusiast 
 ------------------
 
-I am Machine learning engineer with focus on Computer vision
+I am Frontend developer with skill on React, ReactNative. Also leverage AI to build responsive websites.
 
 * 🌍  I'm based in Copenhagen
 * ✉️  You can contact me at [sowmyamannemr@gmail.com](mailto:sowmyamannemr@gmail.com)
-- 🌱 Aspiring ML Engineer | Computer Vision Enthusiast | Full-Stack Developer
-- 🚀 Exploring ML & CV to solve real-world problems in supply chain & construction
-- 💻 Projects: [News Classifier](link), [Image Classification](link), [HackYourFuture Project](link)
-- 📫 Connect: [LinkedIn](linkedin.com/in/sowmyamannem) | [Portfolio]([link](https://sowmya1408.github.io/portfolio))
+- 🌱 Frontend developer | Full-Stack Developer  | AI Enthusiast
+- 🚀 Build website with strong fundamental foundations and explore AI for vibe coding
+- 💻 Projects:[HackYourFuture Project](link)
+- 📫 Connect: [LinkedIn](linkedin.com/in/sowmyamannem) 
 
 
 ### 🔹 skills
-- Python
-- Pytorch
-- AWS SageMaker, S3
-- scikit-learn
-- Pandas, Numpy
-- matplotlib
+- Javascript
+- React
+- React-Native
+- CSS - Tailwind & Styled components
+- Databases - SQL & No SQL
+- REST API's
+- Vibe coding
 
 
 ### Socials
